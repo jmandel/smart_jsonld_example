@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="http://smartplatforms.org/terms#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/1eec3be0-ec7b-48e0-933c-990e1bf67e50">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-04-16</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/65c6deb7-6867-4b96-aed3-0c004bc0b0f1"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137088"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137088">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/3971c8e1-727c-44e6-89d2-8c88f37573ff">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-03-15</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136613"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136613">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/RXNORM/153843">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms/codes/RxNorm_Semantic"/>
+	<title xmlns="http://purl.org/dc/terms/">glimepiride 1 MG Oral Tablet [Amaryl]</title>
+	<system>http://purl.bioontology.org/ontology/RXNORM/</system>
+	<identifier xmlns="http://purl.org/dc/terms/">153843</identifier>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/medications/7c896cf6-4766-4dfe-ac70-99a3d8ea7617">
+	<startDate>2003-12-10</startDate>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Medication"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<instructions>1 daily</instructions>
+	<drugName rdf:nodeID="node16rk1fgdvx136974"/>
+	<frequency rdf:nodeID="node16rk1fgdvx136973"/>
+	<quantity rdf:nodeID="node16rk1fgdvx136975"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/76b5c559-32f5-4a8e-9ffa-518cb19cf9ce"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/9eb443f7-7681-43a1-9f3d-fe1d2765bfdc"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/02d665be-6770-43f5-af43-1895e613c7b1"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/d0fc8688-a6b3-4f57-b211-862dcda3729c"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136973">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>/d</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136974">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+	<title xmlns="http://purl.org/dc/terms/">glimepiride 1 MG Oral Tablet [Amaryl]</title>
+	<code rdf:resource="http://purl.bioontology.org/ontology/RXNORM/153843"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136975">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>{tablet}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/e9c965f2-bbbe-4da7-8ec3-bc96bc996d42">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2008-10-12</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/d872dbd2-d47f-4b5d-93e3-0eef6ba9645e"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137040"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137040">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/b70d3a04-2556-4200-8f35-9725fd7ccdd0">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-06-04</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137223"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137223">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/f141c7c9-d63b-41db-8981-b9091a46b5d0">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-08-01</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/6201e204-8bf4-4e10-87a5-acb6e4f5afe7"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136904"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136904">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/3cef8f67-4e0e-4ca0-a5ff-13be4aeaff0b">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-03-08</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137359"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137359">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/bb988c51-5652-453e-88df-a9d9f9321103">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-06-08</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/6201e204-8bf4-4e10-87a5-acb6e4f5afe7"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136976"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136976">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>45</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/ac426baa-9c12-4b1e-921c-226a3ac5fa1e">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-01-09</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137011"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137011">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/e5e15ef0-a033-45b4-8576-25999cdc8cdd">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2008-11-04</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/6201e204-8bf4-4e10-87a5-acb6e4f5afe7"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136849"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136849">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>45</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/acff45ab-6c65-4e4d-9d79-aeae3d9a932e">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-08-06</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136961"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136961">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a4b0707a-f5d5-4edb-ac6a-f5459fdead50">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2008-10-12</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/989e7cd7-6083-42a3-821d-d519af182c47"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136688"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136688">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/7918cd00-2f1b-4ab4-94aa-5487042aaac6">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-09-26</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137360"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137360">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/04565b86-604f-4df7-a9da-ec4fbeb5c496">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-06-16</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/989e7cd7-6083-42a3-821d-d519af182c47"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136795"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136795">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/13a50186-3bdd-448f-af24-84a9c6395fdd">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-07-04</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136739"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136739">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/d2324fc0-5ba5-4224-9a53-f0156237fe77">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-04-30</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/d7e19c4a-1a29-45f8-8440-61b1cf42b1ae"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136711"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136711">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>60</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/bcb85f8c-e88e-4a0c-8b88-ee2196349e08">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-10-08</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137361"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137361">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/76b5c559-32f5-4a8e-9ffa-518cb19cf9ce">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-01-19</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/7c896cf6-4766-4dfe-ac70-99a3d8ea7617"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136703"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136703">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/e72d4c77-aa12-49ad-87e2-cca9b8cc5681">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-06-04</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136797"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136797">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/d21148bd-bbdc-4dec-b757-d5ac5af5118a">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-03-06</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/6201e204-8bf4-4e10-87a5-acb6e4f5afe7"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137266"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137266">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>45</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/RXNORM/197449">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms/codes/RxNorm_Semantic"/>
+	<title xmlns="http://purl.org/dc/terms/">Cefaclor 500 MG Oral Capsule</title>
+	<system>http://purl.bioontology.org/ontology/RXNORM/</system>
+	<identifier xmlns="http://purl.org/dc/terms/">197449</identifier>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/medications/d7e19c4a-1a29-45f8-8440-61b1cf42b1ae">
+	<startDate>2004-04-30</startDate>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Medication"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<instructions>1 bid</instructions>
+	<drugName rdf:nodeID="node16rk1fgdvx137044"/>
+	<frequency rdf:nodeID="node16rk1fgdvx137043"/>
+	<quantity rdf:nodeID="node16rk1fgdvx137045"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/d2324fc0-5ba5-4224-9a53-f0156237fe77"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137043">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>2</value>
+	<unit>/d</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137044">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+	<title xmlns="http://purl.org/dc/terms/">Cefaclor 500 MG Oral Capsule</title>
+	<code rdf:resource="http://purl.bioontology.org/ontology/RXNORM/197449"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137045">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>{tablet}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/c303b335-dd5d-4d9a-8e38-300b1b257781">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-08-06</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137136"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137136">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/3e546866-7a79-4bfd-9e61-5f5816673b44">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2003-12-27</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137041"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137041">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/81b0e282-4502-45da-9c59-97ca2ce0e947">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-11-12</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136728"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136728">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/8be45ea6-2afc-4012-9ba1-8ebc63aebf39">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-08-28</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136852"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136852">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/5fd64793-479d-4c03-a003-7a68e87fae44">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-07-15</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/989e7cd7-6083-42a3-821d-d519af182c47"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136850"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136850">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/d5aea957-a752-4f9c-9c14-97b3ad798349">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2008-11-10</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/d872dbd2-d47f-4b5d-93e3-0eef6ba9645e"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136615"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136615">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/02d665be-6770-43f5-af43-1895e613c7b1">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2003-12-10</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/7c896cf6-4766-4dfe-ac70-99a3d8ea7617"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136737"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136737">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136598">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>45</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/c8173b14-614b-4190-b226-caa632dcf96d">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-05-03</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/6201e204-8bf4-4e10-87a5-acb6e4f5afe7"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136598"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a20dfd35-a4b8-439c-a313-f7b475486b8f">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2008-11-12</date>
+	<dispenseDaysSupply>9</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/b8c2c601-9257-4575-a312-d9544de76039"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136614"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136614">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>28</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/RXNORM/314076">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms/codes/RxNorm_Semantic"/>
+	<title xmlns="http://purl.org/dc/terms/">Lisinopril 10 MG Oral Tablet</title>
+	<system>http://purl.bioontology.org/ontology/RXNORM/</system>
+	<identifier xmlns="http://purl.org/dc/terms/">314076</identifier>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/medications/65c6deb7-6867-4b96-aed3-0c004bc0b0f1">
+	<startDate>2004-04-16</startDate>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Medication"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<instructions>1 daily</instructions>
+	<drugName rdf:nodeID="node16rk1fgdvx136758"/>
+	<frequency rdf:nodeID="node16rk1fgdvx136760"/>
+	<quantity rdf:nodeID="node16rk1fgdvx136759"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/1eec3be0-ec7b-48e0-933c-990e1bf67e50"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136758">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+	<title xmlns="http://purl.org/dc/terms/">Lisinopril 10 MG Oral Tablet</title>
+	<code rdf:resource="http://purl.bioontology.org/ontology/RXNORM/314076"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136759">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>{tablet}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136760">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>/d</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/9c1ec0c5-9414-4ef5-be52-dfac5459d174">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-01-22</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136738"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136738">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/c51ad87f-34fe-4ea7-8000-555037f5729c">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-09-13</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136709"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136709">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a1582b7c-3dd7-4895-83d4-6582496d8583">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-02-04</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/6201e204-8bf4-4e10-87a5-acb6e4f5afe7"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136704"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136704">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>45</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/975245a1-e4fd-4ae8-9afe-de884e726217">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-04-30</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136726"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136726">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a427eb8a-77ad-4266-ae3a-5c7157682a81">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2003-10-27</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137089"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137089">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/4e89442c-700e-4d59-8f09-3170fcffb04a">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-06-22</date>
+	<dispenseDaysSupply>7</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/b8c2c601-9257-4575-a312-d9544de76039"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137433"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137433">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>28</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/605c1ea1-51ac-427e-8bdc-2033453f9419">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-06-30</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136676"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136676">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/816e9ba9-d763-4626-8d6d-e17a95a4ecd8">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-04-07</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136960"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136960">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/3b6748ef-b1f7-48e0-8277-448c11868387">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2008-11-12</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/989e7cd7-6083-42a3-821d-d519af182c47"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136959"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136959">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/76853f40-25a5-49b7-9ea1-4ad303bd7901">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-03-02</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136892"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136892">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/fc9e371d-ed38-4ef0-8b85-c3c416c7ce25">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-04-30</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136594"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136594">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/fb3ea2c4-4b71-4ee8-bc73-e0e9c28e6047">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-06-30</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136649"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136649">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a97a52b8-950a-4b6c-93ad-d2bd7ebed0b8">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-09-26</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136893"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136893">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/3531e342-4005-454d-9629-896205f390a6">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-12-13</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136895"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136895">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/29d9d629-5442-4a23-baa4-a03bcdd6c604">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-08-15</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/989e7cd7-6083-42a3-821d-d519af182c47"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137097"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137097">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/1f8b66a4-08ee-4dd6-82c2-c11308b232f2">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-04-17</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136851"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136851">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/RXNORM/309114">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms/codes/RxNorm_Semantic"/>
+	<title xmlns="http://purl.org/dc/terms/">Cephalexin 500 MG Oral Capsule</title>
+	<system>http://purl.bioontology.org/ontology/RXNORM/</system>
+	<identifier xmlns="http://purl.org/dc/terms/">309114</identifier>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/medications/b8c2c601-9257-4575-a312-d9544de76039">
+	<startDate>2008-11-12</startDate>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Medication"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<instructions>1 qid</instructions>
+	<drugName rdf:nodeID="node16rk1fgdvx136685"/>
+	<frequency rdf:nodeID="node16rk1fgdvx136686"/>
+	<quantity rdf:nodeID="node16rk1fgdvx136687"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a20dfd35-a4b8-439c-a313-f7b475486b8f"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/4e89442c-700e-4d59-8f09-3170fcffb04a"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136685">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+	<title xmlns="http://purl.org/dc/terms/">Cephalexin 500 MG Oral Capsule</title>
+	<code rdf:resource="http://purl.bioontology.org/ontology/RXNORM/309114"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136686">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>4</value>
+	<unit>/d</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136687">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>{tablet}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/6e3c0dae-7605-47c7-acbe-a3145bb9b27a">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2003-11-29</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137319"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137319">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/83232ab2-ae05-44c8-826e-1de71801e041">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-07-04</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136894"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136894">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a416a38f-b5a0-435f-af7f-3a31eda74e4f">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-11-12</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137012"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137012">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/24db0fed-5324-4bed-94f5-0ff5bf797e9a">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-06-02</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137171"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137171">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/5ace1f58-9f79-46c1-b8af-a092a6ab56b6">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-02-05</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136969"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136969">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/RXNORM/199246">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms/codes/RxNorm_Semantic"/>
+	<title xmlns="http://purl.org/dc/terms/">glimepiride 2 MG Oral Tablet</title>
+	<system>http://purl.bioontology.org/ontology/RXNORM/</system>
+	<identifier xmlns="http://purl.org/dc/terms/">199246</identifier>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/medications/6201e204-8bf4-4e10-87a5-acb6e4f5afe7">
+	<startDate>2005-08-01</startDate>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Medication"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<instructions>1 daily</instructions>
+	<drugName rdf:nodeID="node16rk1fgdvx136814"/>
+	<frequency rdf:nodeID="node16rk1fgdvx136815"/>
+	<quantity rdf:nodeID="node16rk1fgdvx136813"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/7f6b67f8-1533-4bf6-8c12-9c07dfee8e73"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/c8173b14-614b-4190-b226-caa632dcf96d"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/d21148bd-bbdc-4dec-b757-d5ac5af5118a"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/9e6b3692-6f15-480e-a804-c603f8be379d"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/3df02a81-68f3-4828-a23a-68741776b7f0"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/f141c7c9-d63b-41db-8981-b9091a46b5d0"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/bb988c51-5652-453e-88df-a9d9f9321103"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a1582b7c-3dd7-4895-83d4-6582496d8583"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/e5e15ef0-a033-45b4-8576-25999cdc8cdd"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136813">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>{tablet}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136814">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+	<title xmlns="http://purl.org/dc/terms/">glimepiride 2 MG Oral Tablet</title>
+	<code rdf:resource="http://purl.bioontology.org/ontology/RXNORM/199246"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136815">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>/d</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/RXNORM/314077">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms/codes/RxNorm_Semantic"/>
+	<title xmlns="http://purl.org/dc/terms/">Lisinopril 20 MG Oral Tablet</title>
+	<system>http://purl.bioontology.org/ontology/RXNORM/</system>
+	<identifier xmlns="http://purl.org/dc/terms/">314077</identifier>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/medications/989e7cd7-6083-42a3-821d-d519af182c47">
+	<startDate>2008-10-12</startDate>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Medication"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<instructions>1 daily</instructions>
+	<drugName rdf:nodeID="node16rk1fgdvx137207"/>
+	<frequency rdf:nodeID="node16rk1fgdvx137208"/>
+	<quantity rdf:nodeID="node16rk1fgdvx137206"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/3b6748ef-b1f7-48e0-8277-448c11868387"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/04565b86-604f-4df7-a9da-ec4fbeb5c496"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a4b0707a-f5d5-4edb-ac6a-f5459fdead50"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/29d9d629-5442-4a23-baa4-a03bcdd6c604"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/5fd64793-479d-4c03-a003-7a68e87fae44"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137206">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>{tablet}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137207">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+	<title xmlns="http://purl.org/dc/terms/">Lisinopril 20 MG Oral Tablet</title>
+	<code rdf:resource="http://purl.bioontology.org/ontology/RXNORM/314077"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137208">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>/d</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/3df02a81-68f3-4828-a23a-68741776b7f0">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-01-05</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/6201e204-8bf4-4e10-87a5-acb6e4f5afe7"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137320"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137320">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>45</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/9eb443f7-7681-43a1-9f3d-fe1d2765bfdc">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-03-31</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/7c896cf6-4766-4dfe-ac70-99a3d8ea7617"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137187"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137187">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/0b57e207-3fd2-4b0e-b6ac-2dc296e92e8e">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-02-05</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137010"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137010">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/0505a110-09fd-4848-9230-4a1bfa2603ba">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-04-17</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137196"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137196">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/ad7a887e-7ac4-4e3b-866a-87b08d445a3e">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-08-28</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137042"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137042">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a014ffe5-e292-4499-89e8-4cc6493ae41d">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-08-01</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136872"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136872">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/f1978df1-2367-420b-bd8e-15141d6db17c">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-10-08</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136798"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136798">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/RXNORM/153666">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms/codes/RxNorm_Semantic"/>
+	<title xmlns="http://purl.org/dc/terms/">irbesartan 150 MG Oral Tablet [Avapro]</title>
+	<system>http://purl.bioontology.org/ontology/RXNORM/</system>
+	<identifier xmlns="http://purl.org/dc/terms/">153666</identifier>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555">
+	<startDate>2003-10-27</startDate>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Medication"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<instructions>1 daily</instructions>
+	<drugName rdf:nodeID="node16rk1fgdvx136917"/>
+	<frequency rdf:nodeID="node16rk1fgdvx136918"/>
+	<quantity rdf:nodeID="node16rk1fgdvx136916"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/fc9e371d-ed38-4ef0-8b85-c3c416c7ce25"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/81b0e282-4502-45da-9c59-97ca2ce0e947"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/3e546866-7a79-4bfd-9e61-5f5816673b44"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/5ace1f58-9f79-46c1-b8af-a092a6ab56b6"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/8be45ea6-2afc-4012-9ba1-8ebc63aebf39"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/6e3c0dae-7605-47c7-acbe-a3145bb9b27a"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/3cef8f67-4e0e-4ca0-a5ff-13be4aeaff0b"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/b70d3a04-2556-4200-8f35-9725fd7ccdd0"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a014ffe5-e292-4499-89e8-4cc6493ae41d"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/6c235b66-f3a7-4ca3-95b5-3e2e9a17535f"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/c51ad87f-34fe-4ea7-8000-555037f5729c"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/9c1ec0c5-9414-4ef5-be52-dfac5459d174"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/f1978df1-2367-420b-bd8e-15141d6db17c"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/10bc739d-4b1e-4f35-94e7-bce3d3b51b5f"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/83232ab2-ae05-44c8-826e-1de71801e041"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/816e9ba9-d763-4626-8d6d-e17a95a4ecd8"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a427eb8a-77ad-4266-ae3a-5c7157682a81"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/76853f40-25a5-49b7-9ea1-4ad303bd7901"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/1f8b66a4-08ee-4dd6-82c2-c11308b232f2"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/ac426baa-9c12-4b1e-921c-226a3ac5fa1e"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/c303b335-dd5d-4d9a-8e38-300b1b257781"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/605c1ea1-51ac-427e-8bdc-2033453f9419"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/7918cd00-2f1b-4ab4-94aa-5487042aaac6"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136916">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>{tablet}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136917">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+	<title xmlns="http://purl.org/dc/terms/">irbesartan 150 MG Oral Tablet [Avapro]</title>
+	<code rdf:resource="http://purl.bioontology.org/ontology/RXNORM/153666"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136918">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>/d</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/5f7db612-6d4f-4e11-ae88-95305cd65d0f">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-01-09</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136729"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136729">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/RXNORM/197886">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms/codes/RxNorm_Semantic"/>
+	<title xmlns="http://purl.org/dc/terms/">Hydrochlorothiazide 12.5 MG / Lisinopril 20 MG Oral Tablet</title>
+	<system>http://purl.bioontology.org/ontology/RXNORM/</system>
+	<identifier xmlns="http://purl.org/dc/terms/">197886</identifier>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136577">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>/d</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/medications/d872dbd2-d47f-4b5d-93e3-0eef6ba9645e">
+	<startDate>2008-10-12</startDate>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Medication"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<instructions>1 daily</instructions>
+	<drugName rdf:nodeID="node16rk1fgdvx136579"/>
+	<frequency rdf:nodeID="node16rk1fgdvx136577"/>
+	<quantity rdf:nodeID="node16rk1fgdvx136578"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/d5aea957-a752-4f9c-9c14-97b3ad798349"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/e9c965f2-bbbe-4da7-8ec3-bc96bc996d42"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136578">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>{tablet}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136579">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+	<title xmlns="http://purl.org/dc/terms/">Hydrochlorothiazide 12.5 MG / Lisinopril 20 MG Oral Tablet</title>
+	<code rdf:resource="http://purl.bioontology.org/ontology/RXNORM/197886"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/6c235b66-f3a7-4ca3-95b5-3e2e9a17535f">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2005-06-02</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137098"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137098">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/9e6b3692-6f15-480e-a804-c603f8be379d">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-04-04</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/6201e204-8bf4-4e10-87a5-acb6e4f5afe7"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136705"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136705">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>45</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136596">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>45</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/7f6b67f8-1533-4bf6-8c12-9c07dfee8e73">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2008-10-12</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/6201e204-8bf4-4e10-87a5-acb6e4f5afe7"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136596"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/372571c7-73fe-43f2-990d-39044601026a">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-09-13</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx136757"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136757">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/d0fc8688-a6b3-4f57-b211-862dcda3729c">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-03-02</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/7c896cf6-4766-4dfe-ac70-99a3d8ea7617"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137099"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137099">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/RXNORM/153591">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms/codes/RxNorm_Semantic"/>
+	<title xmlns="http://purl.org/dc/terms/">glimepiride 2 MG Oral Tablet [Amaryl]</title>
+	<system>http://purl.bioontology.org/ontology/RXNORM/</system>
+	<identifier xmlns="http://purl.org/dc/terms/">153591</identifier>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/medications/2f7945cb-5575-46d7-8916-1f856f1037ac">
+	<startDate>2004-04-30</startDate>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Medication"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<instructions>1 daily</instructions>
+	<drugName rdf:nodeID="node16rk1fgdvx136708"/>
+	<frequency rdf:nodeID="node16rk1fgdvx136706"/>
+	<quantity rdf:nodeID="node16rk1fgdvx136707"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/bcb85f8c-e88e-4a0c-8b88-ee2196349e08"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/24db0fed-5324-4bed-94f5-0ff5bf797e9a"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/975245a1-e4fd-4ae8-9afe-de884e726217"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/e72d4c77-aa12-49ad-87e2-cca9b8cc5681"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/fb3ea2c4-4b71-4ee8-bc73-e0e9c28e6047"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/3971c8e1-727c-44e6-89d2-8c88f37573ff"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/13a50186-3bdd-448f-af24-84a9c6395fdd"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/3531e342-4005-454d-9629-896205f390a6"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a97a52b8-950a-4b6c-93ad-d2bd7ebed0b8"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/a416a38f-b5a0-435f-af7f-3a31eda74e4f"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/372571c7-73fe-43f2-990d-39044601026a"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/ad7a887e-7ac4-4e3b-866a-87b08d445a3e"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/0505a110-09fd-4848-9230-4a1bfa2603ba"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/5f7db612-6d4f-4e11-ae88-95305cd65d0f"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/0b57e207-3fd2-4b0e-b6ac-2dc296e92e8e"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/acff45ab-6c65-4e4d-9d79-aeae3d9a932e"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136706">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>/d</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136707">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>{tablet}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx136708">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+	<title xmlns="http://purl.org/dc/terms/">glimepiride 2 MG Oral Tablet [Amaryl]</title>
+	<code rdf:resource="http://purl.bioontology.org/ontology/RXNORM/153591"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1869612/fulfillments/10bc739d-4b1e-4f35-94e7-bce3d3b51b5f">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612"/>
+	<date xmlns="http://purl.org/dc/terms/">2004-12-13</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1869612/medications/603ee1b9-70b3-4070-a33e-4643e95c1555"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx137417"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx137417">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>30</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,3 @@
+[submodule "jsonld.js"]
+	path = jsonld.js
+	url = git@github.com:jmandel/jsonld.js.git

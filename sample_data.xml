@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="http://smartplatforms.org/terms#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/RXNORM/213271">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms/codes/RxNorm_Semantic"/>
+	<title xmlns="http://purl.org/dc/terms/">sildenafil 100 MG Oral Tablet [Viagra]</title>
+	<system>http://purl.bioontology.org/ontology/RXNORM/</system>
+	<identifier xmlns="http://purl.org/dc/terms/">213271</identifier>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1796238/medications/652a03a3-9163-4dc0-8fe4-2a1706953544">
+	<startDate>2009-08-10</startDate>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Medication"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238"/>
+	<instructions>1 daily prn ED</instructions>
+	<drugName rdf:nodeID="node16rk1fgdvx135599"/>
+	<frequency rdf:nodeID="node16rk1fgdvx135598"/>
+	<quantity rdf:nodeID="node16rk1fgdvx135600"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238/fulfillments/8d11bb43-eea4-4b62-b63a-9494b356ca9e"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238/fulfillments/cb898d91-af52-44c5-ba87-fd0ec388abb7"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx135598">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>/d</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx135599">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+	<title xmlns="http://purl.org/dc/terms/">sildenafil 100 MG Oral Tablet [Viagra]</title>
+	<code rdf:resource="http://purl.bioontology.org/ontology/RXNORM/213271"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx135600">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>1</value>
+	<unit>{tablet}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1796238/fulfillments/c563e134-f872-459f-bcc6-e0d886c56c64">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-08-04</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238/medications/f601a096-c87f-4a9d-842f-0e5e2bb62f21"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx134451"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx134451">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>8</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1796238/fulfillments/e090641c-de90-44e2-9adb-a218a529b754">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-06-09</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238/medications/f601a096-c87f-4a9d-842f-0e5e2bb62f21"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx134401"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx134401">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>8</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1796238/fulfillments/8d11bb43-eea4-4b62-b63a-9494b356ca9e">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-08-10</date>
+	<dispenseDaysSupply>6</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238/medications/652a03a3-9163-4dc0-8fe4-2a1706953544"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx133698"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx133698">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>6</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.bioontology.org/ontology/RXNORM/745752">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Code"/>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms/codes/RxNorm_Semantic"/>
+	<title xmlns="http://purl.org/dc/terms/">200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir HFA]</title>
+	<system>http://purl.bioontology.org/ontology/RXNORM/</system>
+	<identifier xmlns="http://purl.org/dc/terms/">745752</identifier>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1796238/medications/f601a096-c87f-4a9d-842f-0e5e2bb62f21">
+	<startDate>2009-06-09</startDate>
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Medication"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238"/>
+	<instructions>2 puffs qid prn SOB</instructions>
+	<drugName rdf:nodeID="node16rk1fgdvx133641"/>
+	<frequency rdf:nodeID="node16rk1fgdvx133642"/>
+	<quantity rdf:nodeID="node16rk1fgdvx133643"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238/fulfillments/c8163589-ed60-483a-aa21-a27d13aeced8"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238/fulfillments/c563e134-f872-459f-bcc6-e0d886c56c64"/>
+	<fulfillment rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238/fulfillments/e090641c-de90-44e2-9adb-a218a529b754"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx133641">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#CodedValue"/>
+	<title xmlns="http://purl.org/dc/terms/">200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir HFA]</title>
+	<code rdf:resource="http://purl.bioontology.org/ontology/RXNORM/745752"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx133642">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>4</value>
+	<unit>/d</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx133643">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>2</value>
+	<unit>{puff}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1796238/fulfillments/c8163589-ed60-483a-aa21-a27d13aeced8">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-08-30</date>
+	<dispenseDaysSupply>30</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238/medications/f601a096-c87f-4a9d-842f-0e5e2bb62f21"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx133448"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx133448">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>8</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node16rk1fgdvx135337">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#ValueAndUnit"/>
+	<value>6</value>
+	<unit>{tab}</unit>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sandbox-api.smartplatforms.org/records/1796238/fulfillments/cb898d91-af52-44c5-ba87-fd0ec388abb7">
+	<rdf:type rdf:resource="http://smartplatforms.org/terms#Fulfillment"/>
+	<belongsTo rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238"/>
+	<date xmlns="http://purl.org/dc/terms/">2009-08-30</date>
+	<dispenseDaysSupply>6</dispenseDaysSupply>
+	<medication rdf:resource="http://sandbox-api.smartplatforms.org/records/1796238/medications/652a03a3-9163-4dc0-8fe4-2a1706953544"/>
+	<quantityDispensed rdf:nodeID="node16rk1fgdvx135337"/>
+</rdf:Description>
+
+</rdf:RDF>
+
